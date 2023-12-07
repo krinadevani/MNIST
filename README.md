@@ -1,9 +1,4 @@
----
-title: "MNIST Neural Network Comparison"
-output:
-  html_document:
-    toc: true
----
+# MNIST Neural Network Comparison
 
 ## Introduction
 
